@@ -45,13 +45,13 @@ Follow the steps inside the notebook to complete the recommendation pipeline:
   
 #### **1. Authorize your Spotify account**
 
-**1.1** The notebook will display a URL. Click it.  
+  **1.1** The notebook will display a URL. Click it.  
 <img width="600" src="https://github.com/user-attachments/assets/29b9dbc8-336e-418d-aeb0-e71b8cbcf168" />
 
-**1.2** Authorize the app in the browser.  
+  **1.2** Authorize the app in the browser.  
 <img width="600" src="https://github.com/user-attachments/assets/48678854-0954-4337-9158-f0e70b8a0a9d" />
 
-**1.3** After authorizing, copy the **redirected URL** and paste it back into the notebook input.  
+  **1.3** After authorizing, copy the **redirected URL** and paste it back into the notebook input.  
 <img width="600" src="https://github.com/user-attachments/assets/8037f87f-8cbd-4943-be61-6aa1169e0817" />  
 
 <img width="600" src="https://github.com/user-attachments/assets/d335b2c2-824a-486a-b8cc-d6853ca7e579" /> 
